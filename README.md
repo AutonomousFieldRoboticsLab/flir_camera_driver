@@ -21,10 +21,13 @@ These drives are included along with modifications of the standard ros image mes
 
 This code was originally developed by the National Robotics Engineering Center (NREC), part of the Robotics Institute at Carnegie Mellon University. Its development was funded by DARPA under the LS3 program and submitted for public release on June 7th, 2012. Release was granted on August, 21st 2012 with Distribution Statement "A" (Approved for Public Release, Distribution Unlimited).
 
+This code was updated by Autonomous Field Robotics Lab to implement synchronized multiple flir cameras as primary and secondary cameras.
+
 This software is released under a BSD license:
 
 Copyright (c) 2012, Carnegie Mellon University. All rights reserved.  
 Copyright (c) 2018, Clearpath Robotics, Inc., All rights reserved.
+Copyright (c) 2022, Autonomous Field Robotics Lab, University of South Carolina. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
